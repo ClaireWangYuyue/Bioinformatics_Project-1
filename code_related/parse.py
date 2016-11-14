@@ -15,9 +15,8 @@ sequence_lines = []
 for line in raw_sequence_lines:
     new_line =''
     for i in line:
-        if not i.isalpha() and ord(i) != 32:
-            break
-        new_line += i
+        if i.isalpha():
+            new_line += i
     stripped_new_line = new_line.strip()
     sequence_lines.append(stripped_new_line)
 new_sequence = '\n'.join(sequence_lines)

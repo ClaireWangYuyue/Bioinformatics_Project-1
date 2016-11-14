@@ -1,6 +1,6 @@
 import pprint
 file = open('parsed_sequence.txt','r')
-frequency = open('protein_frequency.txt','w')
+frequency = open('nucleotide_frequency.txt','w')
 alldata = file.read()
 file.close()
 counter = 0
@@ -20,9 +20,12 @@ for letter in alldata:
         counter = 0
         pair = ''
 pprint.pprint(pair_table)
-saved_string = ''
+string_list = []
 for key in pair_table:
-    saved_string += (key+' : '+str(pair_table[key])+'\n')
+    string_list.append(key+' : '+str(pair_table[key]))
+string_list.sort()
+saved_string = '\n'.join(string_list)
+print(saved_string)
 frequency.write(saved_string)
 
 
