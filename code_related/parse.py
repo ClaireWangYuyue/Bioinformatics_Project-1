@@ -1,7 +1,7 @@
 import pprint
-sequence = 'project_sequence.txt'
+sequence = 'CP002987_DNA.txt'
 test = 'test.txt'
-new = 'parsed_sequence.txt'
+new = 'parsed_CP002987_DNA.txt'
 file = open(sequence,'r')
 new_file = open(new,'w')
 alldata = file.readlines()

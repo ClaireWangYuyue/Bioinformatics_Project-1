@@ -1,6 +1,6 @@
 import pprint
-file = open('parsed_sequence.txt','r')
-frequency = open('nucleotide_frequency.txt','w')
+file = open('parsed_CP002987_protein.txt','r')
+frequency = open('2987_protein_frequency.txt','w')
 alldata = file.read()
 file.close()
 counter = 0

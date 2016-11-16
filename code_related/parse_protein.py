@@ -5,10 +5,10 @@ Created on Tue Nov  8 15:51:08 2016
 @author: yuyue
 """
 
-file = open('protein_sequence_raw.txt','r')
+file = open('CP002987_protein.txt','r')
 alldata = file.read()
 file.close()
-newfile = open('protein_sequence.txt','w')
+newfile = open('parsed_CP002987_protein.txt','w')
 newdata=[]
 splitdata = alldata.split('\n')
 for line in splitdata:
