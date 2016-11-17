@@ -1,400 +1,400 @@
-AA : 179
-AC : 36
-AD : 144
-AE : 226
-AF : 170
-AG : 221
-AH : 52
-AI : 301
-AK : 275
-AL : 313
-AM : 95
-AN : 152
-AP : 77
-AQ : 93
-AR : 90
-AS : 194
-AT : 186
-AV : 233
-AW : 21
-AY : 114
-CA : 37
-CC : 8
-CD : 49
-CE : 33
-CF : 38
-CG : 53
-CH : 13
-CI : 58
-CK : 47
-CL : 60
-CM : 19
-CN : 36
-CP : 31
-CQ : 17
-CR : 21
-CS : 44
-CT : 25
-CV : 38
-CW : 6
-CY : 24
-DA : 185
-DC : 39
-DD : 164
-DE : 274
-DF : 168
-DG : 271
-DH : 38
-DI : 318
-DK : 292
-DL : 254
-DM : 88
-DN : 165
-DP : 88
-DQ : 51
-DR : 153
-DS : 209
-DT : 190
-DV : 226
-DW : 31
-DY : 153
-EA : 211
-EC : 33
-ED : 299
-EE : 545
-EF : 159
-EG : 230
-EH : 79
-EI : 380
-EK : 461
-EL : 416
-EM : 138
-EN : 291
-EP : 99
-EQ : 170
-ER : 200
-ES : 203
-ET : 202
-EV : 284
-EW : 39
-EY : 194
-FA : 175
-FC : 43
-FD : 165
-FE : 195
-FF : 138
-FG : 173
-FH : 50
-FI : 173
-FK : 157
-FL : 272
-FM : 48
-FN : 92
-FP : 84
-FQ : 77
-FR : 96
-FS : 180
-FT : 131
-FV : 225
-FW : 26
-FY : 111
-GA : 235
-GC : 36
-GD : 201
-GE : 292
-GF : 185
-GG : 230
-GH : 54
-GI : 374
-GK : 351
-GL : 315
-GM : 115
-GN : 217
-GP : 63
-GQ : 113
-GR : 136
-GS : 234
-GT : 237
-GV : 242
-GW : 23
-GY : 194
-HA : 54
-HC : 7
-HD : 50
-HE : 58
-HF : 54
-HG : 59
-HH : 24
-HI : 85
-HK : 67
-HL : 91
-HM : 25
-HN : 47
-HP : 48
-HQ : 43
-HR : 37
-HS : 65
-HT : 41
-HV : 45
-HW : 12
-HY : 54
-IA : 323
-IC : 47
-ID : 297
-IE : 354
-IF : 250
-IG : 291
-IH : 87
-II : 338
-IK : 356
-IL : 426
-IM : 114
-IN : 183
-IP : 206
-IQ : 170
-IR : 212
-IS : 358
-IT : 281
-IV : 368
-IW : 33
-IY : 181
-KA : 249
-KC : 38
-KD : 282
-KE : 478
-KF : 162
-KG : 280
-KH : 74
-KI : 381
-KK : 495
-KL : 351
-KM : 135
-KN : 312
-KP : 148
-KQ : 191
-KR : 198
-KS : 240
-KT : 291
-KV : 310
-KW : 44
-KY : 187
-LA : 257
-LC : 65
-LD : 270
-LE : 383
-LF : 236
-LG : 308
-LH : 85
-LI : 399
-LK : 436
-LL : 509
-LM : 150
-LN : 291
-LP : 175
-LQ : 188
-LR : 162
-LS : 414
-LT : 261
-LV : 321
-LW : 43
-LY : 185
-MA : 104
-MC : 14
-MD : 92
-ME : 138
-MF : 55
-MG : 115
-MH : 16
-MI : 158
-MK : 183
-ML : 135
-MM : 51
-MN : 102
-MP : 61
-MQ : 73
-MR : 93
-MS : 117
-MT : 83
-MV : 120
-MW : 8
-MY : 54
-NA : 165
-NC : 30
-ND : 135
-NE : 224
-NF : 116
-NG : 213
-NH : 57
-NI : 278
-NK : 234
-NL : 266
-NM : 79
-NN : 158
-NP : 122
-NQ : 118
-NR : 141
-NS : 157
-NT : 166
-NV : 162
-NW : 28
-NY : 112
-PA : 87
-PC : 15
-PD : 129
-PE : 123
-PF : 90
-PG : 89
-PH : 26
-PI : 145
-PK : 135
-PL : 129
-PM : 54
-PN : 107
-PP : 40
-PQ : 43
-PR : 46
-PS : 110
-PT : 97
-PV : 129
-PW : 11
-PY : 70
-QA : 99
-QC : 17
-QD : 123
-QE : 186
-QF : 76
-QG : 130
-QH : 18
-QI : 132
-QK : 192
-QL : 145
-QM : 58
-QN : 119
-QP : 65
-QQ : 79
-QR : 67
-QS : 119
-QT : 104
-QV : 105
-QW : 20
-QY : 65
-RA : 125
-RC : 23
-RD : 137
-RE : 180
-RF : 102
-RG : 134
-RH : 33
-RI : 177
-RK : 199
-RL : 184
-RM : 74
-RN : 137
-RP : 66
-RQ : 73
-RR : 94
-RS : 109
-RT : 115
-RV : 145
-RW : 19
-RY : 99
-SA : 220
-SC : 37
-SD : 235
-SE : 224
-SF : 226
-SG : 262
-SH : 55
-SI : 295
-SK : 295
-SL : 321
-SM : 149
-SN : 184
-SP : 111
-SQ : 109
-SR : 140
-SS : 248
-ST : 160
-SV : 284
-SW : 22
-SY : 129
-TA : 202
-TC : 36
-TD : 191
-TE : 226
-TF : 141
-TG : 237
-TH : 64
-TI : 260
-TK : 226
-TL : 286
-TM : 90
-TN : 142
-TP : 120
-TQ : 92
-TR : 97
-TS : 165
-TT : 174
-TV : 277
-TW : 19
-TY : 142
-VA : 231
-VC : 51
-VD : 235
-VE : 300
-VF : 203
-VG : 268
-VH : 51
-VI : 360
-VK : 295
-VL : 362
-VM : 105
-VN : 180
-VP : 141
-VQ : 125
-VR : 158
-VS : 279
-VT : 254
-VV : 302
-VW : 42
-VY : 161
-WA : 31
-WC : 7
-WD : 14
-WE : 37
-WF : 20
-WG : 29
-WH : 5
-WI : 32
-WK : 40
-WL : 16
-WM : 15
-WN : 37
-WP : 6
-WQ : 17
-WR : 12
-WS : 20
-WT : 21
-WV : 15
-WW : 6
-WY : 23
-YA : 130
-YC : 27
-YD : 151
-YE : 165
-YF : 144
-YG : 177
-YH : 53
-YI : 188
-YK : 137
-YL : 217
-YM : 49
-YN : 113
-YP : 85
-YQ : 104
-YR : 113
-YS : 140
-YT : 119
-YV : 161
-YW : 17
-YY : 118
+AA    179
+AC    36
+AD    144
+AE    226
+AF    170
+AG    221
+AH    52
+AI    301
+AK    275
+AL    313
+AM    95
+AN    152
+AP    77
+AQ    93
+AR    90
+AS    194
+AT    186
+AV    233
+AW    21
+AY    114
+CA    37
+CC    8
+CD    49
+CE    33
+CF    38
+CG    53
+CH    13
+CI    58
+CK    47
+CL    60
+CM    19
+CN    36
+CP    31
+CQ    17
+CR    21
+CS    44
+CT    25
+CV    38
+CW    6
+CY    24
+DA    185
+DC    39
+DD    164
+DE    274
+DF    168
+DG    271
+DH    38
+DI    318
+DK    292
+DL    254
+DM    88
+DN    165
+DP    88
+DQ    51
+DR    153
+DS    209
+DT    190
+DV    226
+DW    31
+DY    153
+EA    211
+EC    33
+ED    299
+EE    545
+EF    159
+EG    230
+EH    79
+EI    380
+EK    461
+EL    416
+EM    138
+EN    291
+EP    99
+EQ    170
+ER    200
+ES    203
+ET    202
+EV    284
+EW    39
+EY    194
+FA    175
+FC    43
+FD    165
+FE    195
+FF    138
+FG    173
+FH    50
+FI    173
+FK    157
+FL    272
+FM    48
+FN    92
+FP    84
+FQ    77
+FR    96
+FS    180
+FT    131
+FV    225
+FW    26
+FY    111
+GA    235
+GC    36
+GD    201
+GE    292
+GF    185
+GG    230
+GH    54
+GI    374
+GK    351
+GL    315
+GM    115
+GN    217
+GP    63
+GQ    113
+GR    136
+GS    234
+GT    237
+GV    242
+GW    23
+GY    194
+HA    54
+HC    7
+HD    50
+HE    58
+HF    54
+HG    59
+HH    24
+HI    85
+HK    67
+HL    91
+HM    25
+HN    47
+HP    48
+HQ    43
+HR    37
+HS    65
+HT    41
+HV    45
+HW    12
+HY    54
+IA    323
+IC    47
+ID    297
+IE    354
+IF    250
+IG    291
+IH    87
+II    338
+IK    356
+IL    426
+IM    114
+IN    183
+IP    206
+IQ    170
+IR    212
+IS    358
+IT    281
+IV    368
+IW    33
+IY    181
+KA    249
+KC    38
+KD    282
+KE    478
+KF    162
+KG    280
+KH    74
+KI    381
+KK    495
+KL    351
+KM    135
+KN    312
+KP    148
+KQ    191
+KR    198
+KS    240
+KT    291
+KV    310
+KW    44
+KY    187
+LA    257
+LC    65
+LD    270
+LE    383
+LF    236
+LG    308
+LH    85
+LI    399
+LK    436
+LL    509
+LM    150
+LN    291
+LP    175
+LQ    188
+LR    162
+LS    414
+LT    261
+LV    321
+LW    43
+LY    185
+MA    104
+MC    14
+MD    92
+ME    138
+MF    55
+MG    115
+MH    16
+MI    158
+MK    183
+ML    135
+MM    51
+MN    102
+MP    61
+MQ    73
+MR    93
+MS    117
+MT    83
+MV    120
+MW    8
+MY    54
+NA    165
+NC    30
+ND    135
+NE    224
+NF    116
+NG    213
+NH    57
+NI    278
+NK    234
+NL    266
+NM    79
+NN    158
+NP    122
+NQ    118
+NR    141
+NS    157
+NT    166
+NV    162
+NW    28
+NY    112
+PA    87
+PC    15
+PD    129
+PE    123
+PF    90
+PG    89
+PH    26
+PI    145
+PK    135
+PL    129
+PM    54
+PN    107
+PP    40
+PQ    43
+PR    46
+PS    110
+PT    97
+PV    129
+PW    11
+PY    70
+QA    99
+QC    17
+QD    123
+QE    186
+QF    76
+QG    130
+QH    18
+QI    132
+QK    192
+QL    145
+QM    58
+QN    119
+QP    65
+QQ    79
+QR    67
+QS    119
+QT    104
+QV    105
+QW    20
+QY    65
+RA    125
+RC    23
+RD    137
+RE    180
+RF    102
+RG    134
+RH    33
+RI    177
+RK    199
+RL    184
+RM    74
+RN    137
+RP    66
+RQ    73
+RR    94
+RS    109
+RT    115
+RV    145
+RW    19
+RY    99
+SA    220
+SC    37
+SD    235
+SE    224
+SF    226
+SG    262
+SH    55
+SI    295
+SK    295
+SL    321
+SM    149
+SN    184
+SP    111
+SQ    109
+SR    140
+SS    248
+ST    160
+SV    284
+SW    22
+SY    129
+TA    202
+TC    36
+TD    191
+TE    226
+TF    141
+TG    237
+TH    64
+TI    260
+TK    226
+TL    286
+TM    90
+TN    142
+TP    120
+TQ    92
+TR    97
+TS    165
+TT    174
+TV    277
+TW    19
+TY    142
+VA    231
+VC    51
+VD    235
+VE    300
+VF    203
+VG    268
+VH    51
+VI    360
+VK    295
+VL    362
+VM    105
+VN    180
+VP    141
+VQ    125
+VR    158
+VS    279
+VT    254
+VV    302
+VW    42
+VY    161
+WA    31
+WC    7
+WD    14
+WE    37
+WF    20
+WG    29
+WH    5
+WI    32
+WK    40
+WL    16
+WM    15
+WN    37
+WP    6
+WQ    17
+WR    12
+WS    20
+WT    21
+WV    15
+WW    6
+WY    23
+YA    130
+YC    27
+YD    151
+YE    165
+YF    144
+YG    177
+YH    53
+YI    188
+YK    137
+YL    217
+YM    49
+YN    113
+YP    85
+YQ    104
+YR    113
+YS    140
+YT    119
+YV    161
+YW    17
+YY    118

@@ -1,6 +1,6 @@
 import pprint
-file = open('parsed_CP002987_protein.txt','r')
-frequency = open('2987_protein_frequency.txt','w')
+file = open('parsed_AP008971_DNA.txt','r')
+frequency = open('8971_DNA_frequency.txt','w')
 alldata = file.read()
 file.close()
 counter = 0
@@ -22,7 +22,7 @@ for letter in alldata:
 pprint.pprint(pair_table)
 string_list = []
 for key in pair_table:
-    string_list.append(key+' : '+str(pair_table[key]))
+    string_list.append(key+'    '+str(pair_table[key]))
 string_list.sort()
 saved_string = '\n'.join(string_list)
 print(saved_string)
