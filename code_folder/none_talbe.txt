@@ -1,0 +1,10 @@
+GU  None    1    None    None    None
+IU  1    None    None    None    None
+LU  None    1    None    None    None
+TU  None    1    None    None    None
+UA  1    None    None    None    None
+UL  None    1    None    None    None
+UP  1    4    None    None    None
+UT  None    1    None    None    None
+UV  None    1    None    None    None
+VU  None    2    None    1    None

@@ -1,0 +1,7 @@
+#high outliers
+#dipeptide self sp4
+HW	195,16
+PP	1618,127
+RW	715,45
+WR	599,48
+WW	185,12

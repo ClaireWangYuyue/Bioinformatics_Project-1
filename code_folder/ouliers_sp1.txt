@@ -1,0 +1,8 @@
+#high outliers
+#dipeptide self sp1
+AW	763,286
+PP	1618,588
+RW	715,229
+WL	1213,457
+WR	599,217
+WW	185,61

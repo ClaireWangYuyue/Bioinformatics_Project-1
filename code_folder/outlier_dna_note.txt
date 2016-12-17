@@ -1,0 +1,32 @@
+total_nucleotide = 1766189
+total_nucleotide1 = 965506
+total_nucleotide2 = 2022388 
+total_nucleotide3 = 2464783
+total_nucleotide4 = 898788
+
+
+# dipeptide expect observe test data
+
+# HIGH outliers
+
+name p-value
+
+# expected VS. observed
+aa	< 2.2e-16
+tt	< 2.2e-16
+# self VS. control
+#dinu	sp1		sp2			sp3			sp4
+cc	< 2.2e-16	< 2.2e-16	< 2.2e-16	< 2.2e-16	
+cg	< 2.2e-16	< 2.2e-16	< 2.2e-16	< 2.2e-16
+gc	< 2.2e-16	< 2.2e-16	< 2.2e-16	< 2.2e-16
+
+
+#LOW outliers
+＃ expected VS. observed
+ta	< 2.2e-16
+# self VS. controal
+#dipep	sp1		sp2			sp3			sp4
+aa	< 2.2e-16	< 2.2e-16	< 2.2e-16	< 2.2e-16
+at	< 2.2e-16	< 2.2e-16	< 2.2e-16	< 2.2e-16
+ta  < 2.2e-16	< 2.2e-16	< 2.2e-16	< 2.2e-16
+tt  < 2.2e-16	< 2.2e-16	< 2.2e-16	< 2.2e-16

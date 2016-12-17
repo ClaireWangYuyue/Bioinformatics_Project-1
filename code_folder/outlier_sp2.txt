@@ -1,0 +1,5 @@
+#high outliers
+#dipeptide self sp2
+WL	1213,16
+WR	599,12
+WV	771,15

@@ -1,0 +1,51 @@
+total_dipeptide = 534628
+total_dipeptide1 = 660017
+total_dipeptide2 = 58354
+total_dipeptide3 = 568358
+total_dipeptide4 = 271111
+total_dinucleotide = 1766189
+
+# dipeptide expect observe test data
+# high outliers
+
+name p-value
+# 自己跟自己比 
+CH	9.318e-06 
+EK	< 2.2e-16
+GK	< 2.2e-16
+HP	< 2.2e-16
+TP	< 2.2e-16
+WM	1.284e-09
+＃自己跟sp1比
+AW	< 2.2e-16
+PP	< 2.2e-16
+RW	< 2.2e-16
+WL	< 2.2e-16
+WR	< 2.2e-16
+WW	< 2.2e-16
+＃自己跟sp2比
+WL	< 2.2e-16
+WR	9.672e-11
+WV	1.252e-13
+＃自己跟sp3比
+AW	< 2.2e-16
+PP	< 2.2e-16
+RW	< 2.2e-16
+WR	< 2.2e-16
+WV	< 2.2e-16
+WW	< 2.2e-16
+＃自己跟sp4比
+HW	2.005e-15
+PP	< 2.2e-16
+RW	< 2.2e-16
+WR	< 2.2e-16
+WW	5.016e-16
+
+#low outliers
+自己跟自己比
+GP	< 2.2e-16
+MW	3.036e-07
+QC	7.362e-06
+TK	< 2.2e-16
+WP	< 2.2e-16
+YY	< 2.2e-16

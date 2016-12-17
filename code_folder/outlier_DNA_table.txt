@@ -1,0 +1,8 @@
+#dinucleotide observe expect
+# high outliers
+	＃observe	#expect
+aa	120698
+tt	119224
+
+#low outliers
+ta	54881
